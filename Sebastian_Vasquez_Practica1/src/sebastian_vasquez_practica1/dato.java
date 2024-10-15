@@ -11,8 +11,7 @@ public class dato { // Nombre de clase con mayúscula inicial (convención)
 
     // Constructor que recibe un parámetro y lo asigna al atributo
     public dato(String letraPalabra) {
-        this.letraPalabra = letraPalabra; // Corrige el error de falta de punto y coma
-    }
+        this.letraPalabra = letraPalabra;
 
     // Métodos getter y setter
     public String getLetraPalabra() {
